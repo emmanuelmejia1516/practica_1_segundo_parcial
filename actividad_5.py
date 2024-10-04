@@ -1,4 +1,4 @@
-# Programa 5: Preguntar los numeros triunfadores de la loteria y mostrarlos de menor a mayor.
+print("Mejia Suarez Emmanuel Alexander: Preguntar los numeros triunfadores de la loteria y mostrarlos de menor a mayor")
 
 # Se inicializa una lista vacia para los numeros.
 numeros_loteria = []
