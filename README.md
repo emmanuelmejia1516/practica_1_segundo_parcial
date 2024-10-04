@@ -26,7 +26,8 @@ actividades del dia
 ![image](https://github.com/user-attachments/assets/b45ca960-7cc3-4064-97a2-84acb6e2e808)
 
 # actividad 5
-![image](https://github.com/user-attachments/assets/0bd9fb17-a506-4a6b-8dbe-e1589475c2bf)
+![image](https://github.com/user-attachments/assets/8a7c7da3-3a6a-4d2c-81eb-9351e26a2366)
 
 # resultado
-![image](https://github.com/user-attachments/assets/3d9907cd-51c0-4e80-a47f-f73ebeb516e8)
+![image](https://github.com/user-attachments/assets/f3606cf2-bcdf-4305-9446-c97a7e9cf6fc)
+
