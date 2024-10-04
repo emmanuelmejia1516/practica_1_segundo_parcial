@@ -1,4 +1,4 @@
-# Programa 4: Solicitar calificacion por cada materia y mostrarla.
+print("Mejia Suarez Emmanuel Alexander: Solicitar calificacion por cada materia y mostrarla")
 
 # Se utiliza la misma lista de materias que en el Programa 2.
 materias = ["Pensamiento matematico", "lengua y comunicacion", "Ingles", "ecosistemas", "humanidades", "metodologias de software"]
